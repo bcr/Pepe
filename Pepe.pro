@@ -1,4 +1,4 @@
-update=Saturday, September 30, 2017 'PMt' 10:26:28 PM
+update=Sunday, October 01, 2017 'PMt' 10:12:30 PM
 last_client=kicad
 [general]
 version=1
@@ -87,3 +87,13 @@ LibName78=Xicor
 LibName79=xilinx
 LibName80=Zilog
 LibName81=Pepe
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceAjustPassiveValues=0
+LabSize=60
+ERC_TestSimilarLabels=1
